@@ -1,0 +1,14 @@
+C:\Users\sajan\Desktop\2024\CLDV6211\PROJECTS\ShoppingCartApp\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.exe
+C:\Users\sajan\Desktop\2024\CLDV6211\PROJECTS\ShoppingCartApp\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.deps.json
+C:\Users\sajan\Desktop\2024\CLDV6211\PROJECTS\ShoppingCartApp\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.runtimeconfig.json
+C:\Users\sajan\Desktop\2024\CLDV6211\PROJECTS\ShoppingCartApp\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.dll
+C:\Users\sajan\Desktop\2024\CLDV6211\PROJECTS\ShoppingCartApp\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.pdb
+C:\Users\sajan\Desktop\2024\CLDV6211\PROJECTS\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajan\Desktop\2024\CLDV6211\PROJECTS\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.AssemblyInfoInputs.cache
+C:\Users\sajan\Desktop\2024\CLDV6211\PROJECTS\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.AssemblyInfo.cs
+C:\Users\sajan\Desktop\2024\CLDV6211\PROJECTS\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.csproj.CoreCompileInputs.cache
+C:\Users\sajan\Desktop\2024\CLDV6211\PROJECTS\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.dll
+C:\Users\sajan\Desktop\2024\CLDV6211\PROJECTS\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\refint\ShoppingCartApp.dll
+C:\Users\sajan\Desktop\2024\CLDV6211\PROJECTS\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.pdb
+C:\Users\sajan\Desktop\2024\CLDV6211\PROJECTS\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.genruntimeconfig.cache
+C:\Users\sajan\Desktop\2024\CLDV6211\PROJECTS\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ref\ShoppingCartApp.dll
